@@ -1,8 +1,12 @@
 # 💫 About Me:
 I'm currently working on: Scalable and efficient web applications.
+
 I'm looking to collaborate on: Web development and impactful open-source projects.
+
 I'm looking for help with: Advanced web development techniques and backend optimization.
+
 I'm currently learning: Frontend frameworks, GraphQL, and serverless architecture.
+
 Ask me about: Web development, competitive programming, and software design.
 
 ## 🌐 Socials:
