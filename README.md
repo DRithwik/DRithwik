@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on:<br>Developing scalable web applications and integrating blockchain solutions for secure and efficient systems.<br><br>I'm looking to collaborate on:<br>Innovative projects in web development, blockchain, or open-source contributions that solve real-world problems.<br><br>I'm looking for help with:<br>Exploring advanced blockchain technologies and optimizing smart contract performance.<br><br>I'm currently learning:<br>Deepening my knowledge in Ethereum, IPFS, and advanced backend technologies like GraphQL and serverless architecture.<br><br>Ask me about:<br>Web development, competitive programming, and building blockchain-based systems.
-
+I'm currently working on: Scalable and efficient web applications.
+I'm looking to collaborate on: Web development and impactful open-source projects.
+I'm looking for help with: Advanced web development techniques and backend optimization.
+I'm currently learning: Frontend frameworks, GraphQL, and serverless architecture.
+Ask me about: Web development, competitive programming, and software design.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rithwik-d-865a6727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
