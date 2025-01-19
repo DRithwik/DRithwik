@@ -9,7 +9,7 @@ Let’s create something awesome together!
 ##  Coding Profiles:
 [![G](https://img.shields.io/badge/GeeksForGeeks-darkgreen)](https://www.geeksforgeeks.org/user/rithwik_d/)
 [![G](https://img.shields.io/badge/CodeChef-brown)](https://www.codechef.com/users/rithwik007)
-[![G](https://img.shields.io/badge/Leetcode-black)](https://leetcode.com/u/Rithwik_D/)
+[![G](https://img.shields.io/badge/Leetcode-dark)](https://leetcode.com/u/Rithwik_D/)
 [![G](https://img.shields.io/badge/InterviewBit-white)](https://www.interviewbit.com/profile/rithwik-d/)
 [![G](https://img.shields.io/badge/CodingNinjas-darkblue)](https://www.naukri.com/code360/profile/e79ad955-af5d-4a19-beca-cb89b1e84273)
 ## 💻 Tech Stack:
