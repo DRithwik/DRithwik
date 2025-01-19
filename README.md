@@ -1,8 +1,8 @@
-# 💫 About Me:
-Welcome to my digital space
-Hi, I'm Rithwik Deshaboina
+#  About Me:
+Hi, I'm Rithwik Deshaboina | VCE'26
+
 Turning Ideas into Code & Creativity into Reality
-Let’s create something awesome together! 💡
+Let’s create something awesome together!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithwik-d-865a6727a/) 
 
