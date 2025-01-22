@@ -6,7 +6,7 @@ Let’s create something awesome together!
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithwik-d-865a6727a/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkblue)](http://www.rithwik.tech/)
-##  Coding Profiles:
+##  Coding Profiles: 
 [![G](https://img.shields.io/badge/GeeksForGeeks-darkgreen)](https://www.geeksforgeeks.org/user/rithwik_d/)
 [![G](https://img.shields.io/badge/CodeChef-brown)](https://www.codechef.com/users/rithwik007)
 [![G](https://img.shields.io/badge/InterviewBit-white)](https://www.interviewbit.com/profile/rithwik-d/)
