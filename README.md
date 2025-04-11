@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I'm Rithwik | VCE'26 
+Hi, I'm Rithwik | VCE'26
 
 Turning Ideas into Code & Creativity into Reality | 
 Let’s create something awesome together!
